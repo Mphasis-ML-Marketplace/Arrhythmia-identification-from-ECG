@@ -7,3 +7,6 @@ Early detection of arrythmia is crucial as it could be life threatening while sh
 * The solution can be used for remote patient monitoring by providing early warning and alerts. With wearable devices collecting ECG data, the solution also extends to Federated Machine Learning scenarios with hyper-personalised models for patients. 
 * The solution adheres to standard Waveform Database file format which can be easily integrated with other healthcare data platforms. The pre-processing mechanism can identify peaks in the waveform data and automatically split in format required for the deep learning format.
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Machine Learning and Deep Learning solutions? Get in touch!
+
+## Amazon Marketplace Link
+The product can be found [here]()
