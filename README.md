@@ -9,4 +9,4 @@ Early detection of arrythmia is crucial as it could be life threatening while sh
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here]()
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-rgztdwpcodzss)
